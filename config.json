@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdave",
+        "uuid": 2217330,
+        "checksum": "uua9w"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
